@@ -46,3 +46,10 @@ Summary Insights
 - The model's prediction accuracy is relatively low (11.88%), suggesting the need for further optimization, possibly by adjusting model parameters or incorporating additional features.
 Predicted prices show a trend of slight fluctuation within a range of $4,361.13 over the next 30 days.
 The SVR model's predictions are somewhat consistent but require improvements for more reliable forecasting of Bitcoin prices.
+
+Contributing
+
+Contributions are welcome! Please feel free to submit a pull request or raise an issue for any bugs or suggestions for improvements.
+License This project is licensed under the MIT License - see the LICENSE file for details.
+
+Contact For any questions or feedback, please contact rajul.work@outlook.com.
